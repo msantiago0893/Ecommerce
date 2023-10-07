@@ -2,19 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Librerias instaladas
+## Installed Libraries
 
-npm install react-router-dom@5  --> libreria para rutas -- TENGO INSTALADO ESTA VERSION
-npm install react-router-dom@6  --> libreria para rutas
-npm i node-sass               --> paquete de sass
-npm install @reduxjs/toolkit react-redux
+- `npm install react-router-dom@5` --> Library for routing - I HAVE THIS VERSION INSTALLED
+- `npm install react-router-dom@6` --> Library for routing
+- `npm i node-sass` --> Sass package
+- `npm install @reduxjs/toolkit react-redux` --> Redux and React-Redux
 
-npm install @mui/material @emotion/react @emotion/styled
+- `npm install @mui/material @emotion/react @emotion/styled` --> Material-UI dependencies
 
+## Testing
 
-## Para realizar testing
-  Tengo qué usar Jest y React Testing Library conjuntamente
+For testing, you need to use Jest and React Testing Library together.
 
-  https://www.youtube.com/watch?v=KYjjtRgg_H0
-
-
+Here's a helpful resource for testing: [YouTube - Testing with Jest and React Testing Library](https://www.youtube.com/watch?v=KYjjtRgg_H0)
